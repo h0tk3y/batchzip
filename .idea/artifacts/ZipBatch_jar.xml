@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ZipBatch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZipBatch_jar</output-path>
+    <root id="archive" name="ZipBatch.jar">
+      <element id="module-output" name="ZipBatch" />
+      <element id="extracted-dir" path="$USER_HOME$/kotlinc/lib/kotlin-runtime.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
